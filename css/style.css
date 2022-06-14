@@ -41,3 +41,6 @@ form + div {
 div > span {
     color: red;
 }
+:root{
+    color-scheme: dark;
+}
